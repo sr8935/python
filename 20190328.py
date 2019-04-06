@@ -11,7 +11,7 @@ import unittest, time, re
 import requests
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
-
+#123123
 url='https://www.dmm.co.jp/'
 url2='search/=/searchstr=%E7%9B%B8%E6%B2%A2%E3%81%BF%E3%81%AA%E3%81%BF/limit=120/n1=FgRCTw9VBA4GAVhfWkIHWw__/'
 
